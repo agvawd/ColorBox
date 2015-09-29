@@ -1,0 +1,22 @@
+.color{
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+    display: none;
+}
+
+.green{
+    background: green;
+}
+
+.red{
+    background: red;
+}
+
+.blue{
+    background: blue;
+}
+
+.purple{
+	background: purple;
+}
