@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    // $("#colorList").change(function(test){
+    // $("#colorList").change(function(){
     // 	if($("option:selected").text() === "Select one..."){
     // 		$(".color").slideUp();
     // 	}
@@ -10,7 +10,7 @@ $(document).ready(function(){
     // 	}
     // });   
 
-    $("#colorList").change(function(test){
+    $("#colorList").change(function(){
         if($("option:selected").text() === "Select one..."){
             $(".color").slideUp();
         }
